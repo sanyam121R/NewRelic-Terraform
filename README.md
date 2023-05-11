@@ -6,6 +6,6 @@ Use your yesterday queries for the condition.
 
 Make sure for condition part you use the loops and condition should be inside variable.tf so that you can loop and create everything dynamically.
 
-Resulted output
+Resulted output:
 
 ![NewRelic Alert created](./NewRelic%20Alert%20created.png)
